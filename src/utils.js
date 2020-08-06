@@ -1,9 +1,4 @@
 /**
- * Main.js contains our project modules
- * Write your functions below
- */
-
-/**
  *
  * @param {number} time - Unix time in seconds returns it in miliseconds
  */
