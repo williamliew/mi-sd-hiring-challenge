@@ -14,7 +14,12 @@ Requirements for the challenge:
 1. Use the data from the geolocation endpoint to make a second call to the **forecast endpoint**.
 1. Use the data from both endpoints to generate the creative found [here.](/img/creative_mock_up.gif)
 1. Your code should be as maintainable and extensible as possible.
-1. Package the solution by running `npm run pack` and send to us.
+1. Please timebox this exercise to 1 hour.
+
+## Get Started
+
+- Run `npm run start` to start your local dev environment
+- Run `npm run pack` to package your code and send to us
 
 ## Geolocation endpoint
 
